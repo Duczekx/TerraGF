@@ -173,3 +173,4 @@ Napisz przez formularz, podając model ciągnika i planowane zastosowanie. Warto
 Długość|Länge|Length|Longueur|Longitud|Lunghezza
 ok. 1450|ca. 1450|approx. 1450|env. 1450|aprox. 1450|circa 1450
 FAQ|FAQ|FAQ|FAQ|FAQ|FAQ
+Galeria|Galerie|Gallery|Galerie|Galería|Galleria

@@ -174,7 +174,8 @@ window.TRANSLATIONS = {
     "Napisz przez formularz, podając model ciągnika i planowane zastosowanie. Warto dołączyć zdjęcia mocowania. Na tej podstawie uzgodnimy konfigurację, cenę, termin realizacji oraz sposób odbioru.": "Napisz przez formularz, podając model ciągnika i planowane zastosowanie. Warto dołączyć zdjęcia mocowania. Na tej podstawie uzgodnimy konfigurację, cenę, termin realizacji oraz sposób odbioru.",
     "Długość": "Długość",
     "ok. 1450": "ok. 1450",
-    "FAQ": "FAQ"
+    "FAQ": "FAQ",
+    "Galeria": "Galeria"
   },
   "de": {
     "TERRAGF — GF 1900 · Mocny chwyt. Pełna kontrola.": "TERRAGF — GF 1900 · Starker Griff. Volle Kontrolle.",
@@ -351,7 +352,8 @@ window.TRANSLATIONS = {
     "Napisz przez formularz, podając model ciągnika i planowane zastosowanie. Warto dołączyć zdjęcia mocowania. Na tej podstawie uzgodnimy konfigurację, cenę, termin realizacji oraz sposób odbioru.": "Schreiben Sie uns über das Formular und nennen Sie Ihr Traktormodell sowie den geplanten Einsatz. Fotos der Aufnahme helfen bei der Abstimmung. Auf dieser Grundlage vereinbaren wir Ausführung, Preis, Liefertermin und Versand oder Abholung.",
     "Długość": "Länge",
     "ok. 1450": "ca. 1450",
-    "FAQ": "FAQ"
+    "FAQ": "FAQ",
+    "Galeria": "Galerie"
   },
   "en": {
     "TERRAGF — GF 1900 · Mocny chwyt. Pełna kontrola.": "TERRAGF — GF 1900 · Strong grip. Full control.",
@@ -528,7 +530,8 @@ window.TRANSLATIONS = {
     "Napisz przez formularz, podając model ciągnika i planowane zastosowanie. Warto dołączyć zdjęcia mocowania. Na tej podstawie uzgodnimy konfigurację, cenę, termin realizacji oraz sposób odbioru.": "Use the form to tell us your tractor model and intended use. Photos of the mounting system are helpful. We will then agree on the configuration, price, lead time and delivery or collection arrangements.",
     "Długość": "Length",
     "ok. 1450": "approx. 1450",
-    "FAQ": "FAQ"
+    "FAQ": "FAQ",
+    "Galeria": "Gallery"
   },
   "fr": {
     "TERRAGF — GF 1900 · Mocny chwyt. Pełna kontrola.": "TERRAGF — GF 1900 · Prise ferme. Maîtrise totale.",
@@ -705,7 +708,8 @@ window.TRANSLATIONS = {
     "Napisz przez formularz, podając model ciągnika i planowane zastosowanie. Warto dołączyć zdjęcia mocowania. Na tej podstawie uzgodnimy konfigurację, cenę, termin realizacji oraz sposób odbioru.": "Contactez-nous via le formulaire en indiquant le modèle du tracteur et l’utilisation prévue. Des photos de l’attelage sont utiles. Nous conviendrons ensuite de la configuration, du prix, du délai et des modalités de livraison ou de retrait.",
     "Długość": "Longueur",
     "ok. 1450": "env. 1450",
-    "FAQ": "FAQ"
+    "FAQ": "FAQ",
+    "Galeria": "Galerie"
   },
   "es": {
     "TERRAGF — GF 1900 · Mocny chwyt. Pełna kontrola.": "TERRAGF — GF 1900 · Agarre firme. Control total.",
@@ -882,7 +886,8 @@ window.TRANSLATIONS = {
     "Napisz przez formularz, podając model ciągnika i planowane zastosowanie. Warto dołączyć zdjęcia mocowania. Na tej podstawie uzgodnimy konfigurację, cenę, termin realizacji oraz sposób odbioru.": "Escríbanos mediante el formulario e indique el modelo del tractor y el uso previsto. Conviene adjuntar fotos del enganche. A partir de esta información acordaremos la configuración, el precio, el plazo y la entrega o recogida.",
     "Długość": "Longitud",
     "ok. 1450": "aprox. 1450",
-    "FAQ": "FAQ"
+    "FAQ": "FAQ",
+    "Galeria": "Galería"
   },
   "it": {
     "TERRAGF — GF 1900 · Mocny chwyt. Pełna kontrola.": "TERRAGF — GF 1900 · Presa salda. Pieno controllo.",
@@ -1059,6 +1064,7 @@ window.TRANSLATIONS = {
     "Napisz przez formularz, podając model ciągnika i planowane zastosowanie. Warto dołączyć zdjęcia mocowania. Na tej podstawie uzgodnimy konfigurację, cenę, termin realizacji oraz sposób odbioru.": "Scrivici tramite il modulo indicando il modello del trattore e l’impiego previsto. È utile allegare foto dell’attacco. Concorderemo quindi configurazione, prezzo, tempi e modalità di consegna o ritiro.",
     "Długość": "Lunghezza",
     "ok. 1450": "circa 1450",
-    "FAQ": "FAQ"
+    "FAQ": "FAQ",
+    "Galeria": "Galleria"
   }
 };
