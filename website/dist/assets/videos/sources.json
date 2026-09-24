@@ -1,0 +1,18 @@
+[
+  {
+    "source": "1780820969572.MOV",
+    "output": "praca-widel.mp4",
+    "original_bytes": 104216564,
+    "web_bytes": 10139981,
+    "audio": "removed",
+    "width": 1280
+  },
+  {
+    "source": "IMG_6528.MOV",
+    "output": "chwytak-w-ruchu.mp4",
+    "original_bytes": 29065428,
+    "web_bytes": 1031515,
+    "audio": "removed",
+    "width": 540
+  }
+]

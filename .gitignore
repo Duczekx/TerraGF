@@ -1,0 +1,21 @@
+# Only the website and its reproducible translation build belong in this repo.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/website/
+!/scripts/
+/scripts/*
+!/scripts/build-translations.py
+!/scripts/translations.txt
+!/scripts/test-contact.mjs
+
+# Credentials and local tooling must never be committed.
+**/.env
+**/.env.*
+**/.dev.vars
+**/.dev.vars.*
+**/node_modules/
+**/.wrangler/
+**/__pycache__/
+**/*.log
