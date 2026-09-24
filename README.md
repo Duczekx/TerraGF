@@ -39,3 +39,11 @@ Bez konfiguracji formularz pozostaje nieaktywny. Testy korzystają z atrap usłu
 - Testy: `node scripts/test-contact.mjs`.
 
 Gotowe media są w `website/dist/assets`. Oryginalne projekty CAD/Blender i lokalne narzędzia nie należą do repozytorium strony.
+
+## Cloudflare Workers — aktualny projekt terragf
+
+Repozytorium obsługuje również Worker `terragf` dzięki `wrangler.jsonc`.
+W Settings → Build ustaw katalog główny repozytorium, build command `python3 scripts/build-translations.py && node scripts/test-contact.mjs`, deploy command `npx wrangler deploy`.
+Konfiguracja publikuje `website/dist` jako statyczne zasoby, a `/api/*` kieruje do obsługi formularza. `.assetsignore` wyklucza kod serwerowy i pliki pomocnicze z zasobów publicznych.
+Sekrety formularza ustaw w Settings → Variables and Secrets samego Workera (nie tylko w ustawieniach kompilacji). `keep_vars` zachowuje zwykłe zmienne dodane w panelu; sekrety pozostają w Cloudflare.
+Domenę dodaj w Settings → Domains & Routes po udanym wdrożeniu.

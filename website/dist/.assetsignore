@@ -1,0 +1,5 @@
+_worker.js
+_routes.json
+.assetsignore
+**/*-metadata.txt
+**/sources.json
